@@ -1,0 +1,18 @@
+{
+  "name": "smooth-operator-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Atom Smooth Operator Dark Syntax Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/smooth-operator-dark-syntax",
+  "license": "MIT",
+  "author": {
+    "name": "Ken Okabe"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
