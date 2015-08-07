@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/smooth-operator-dark-syntax",
+  "repository": "https://github.com/kenokabe/smooth-operator-dark-syntax",
   "license": "MIT",
   "author": {
     "name": "Ken Okabe"
